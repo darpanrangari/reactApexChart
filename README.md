@@ -1,2 +1,0 @@
-# reactApexChart
-Created with CodeSandbox
